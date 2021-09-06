@@ -1,1 +1,1 @@
-# Area-Of-The-Rectamgle
+# Area-Of-The-Rectangle

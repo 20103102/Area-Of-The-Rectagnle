@@ -1,1 +1,1 @@
-# Area-Of-The-Rectagnle
+# Area-Of-The-Rectamgle
